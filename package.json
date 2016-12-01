@@ -1,0 +1,17 @@
+{
+  "name": "kaizen-ui-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "svgo": "svgo src/icons dist/icons",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kaizen Platform, Inc.",
+  "repository": "https://github.com/kaizenplatform/kaizen-ui-icons/",
+  "license": "MIT",
+  "devDependencies": {
+    "svgo": "^0.7.1"
+  }
+}
