@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "svgo": "svgo --config=svgo.yml svg"
+    "svgo": "svgo --config=.svgo.yml svg"
   },
   "keywords": [],
   "author": "Kaizen Platform, Inc.",
