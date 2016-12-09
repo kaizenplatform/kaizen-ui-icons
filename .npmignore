@@ -1,0 +1,4 @@
+bin
+docs
+.svgo.yml
+.npmignore

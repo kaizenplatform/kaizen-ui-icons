@@ -1,8 +1,7 @@
 {
   "name": "kaizen-ui-icons",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Kaizen Platform Icons",
   "scripts": {
     "svgo": "svgo --config=.svgo.yml svg"
   },
