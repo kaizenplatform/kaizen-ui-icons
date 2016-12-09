@@ -1,0 +1,16 @@
+doctype html
+html(lang="en")
+  head
+    title Kaizen Icons
+    link(rel="stylesheet" href="../node_modules/normalize.css/normalize.css")
+    link(rel="stylesheet" href="style.css")
+  body
+    .container
+      h1 Kaizen Icons
+      .icon-list
+        each data in svgData
+          .icon
+            .icon-svg
+              | !{data.svg}
+            .icon-name
+              | #{data.iconName}

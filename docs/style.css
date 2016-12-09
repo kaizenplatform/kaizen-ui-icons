@@ -1,0 +1,44 @@
+.container {
+  max-width: 1060px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.icon-list {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.icon {
+  width: 132.5px;
+  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.icon-svg {
+  font-size: 48px;
+  width: 80px;
+  height: 80px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ededed;
+}
+
+.icon-svg.-sm {
+  font-size: 24px;
+}
+
+.icon svg {
+  width: 1em;
+  height: 1em;
+}
+
+.icon-name {
+  font-size: 12px;
+  margin-top: 1em;
+}
