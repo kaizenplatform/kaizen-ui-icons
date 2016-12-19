@@ -1,4 +1,4 @@
-# kaizen-ui-Icons
+# kaizen-ui-icons
 
 Kaizen Platform Icons
 
